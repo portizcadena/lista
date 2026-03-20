@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:15, Mega #EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13C (1080p)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:100, TV Chile | CL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:99, La Red
+#EXTVLCOPT:network-caching=1000
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+#EXTINF:30, TV+ #EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:100, TVN3 #EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:32, CHV #EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+#EXTINF:80, TVN 24 Horas #EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:102, Canal 13 #EXTVLCOPT:network-caching=1000
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:60, T13 #EXTVLCOPT:network-caching=1000
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:60, T13 Radio #EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13 Cultura | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13 Cocina | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:100, 13 Pop | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:101, 13 Teleseries | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13 Festival | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13 Realities | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13 Viajes | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:102, 13 Internacional | CL
+#EXTVLCOPT:network-caching=1000
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:15, U Chile TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, UCV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24,Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:54,FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:24,Impacto Televisión (360p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:24,TV Oasis Monay
+https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
+#EXTINF:102, FutGO | CL
+#EXTVLCOPT:network-caching=1000
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
+#EXTINF:19, Holvoet TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
