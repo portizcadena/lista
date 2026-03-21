@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:158, tntsports
-https://x4bnd7lq.fubohd.com/tntsportschile/mono.m3u8?token=42d94e2ec20bba6fbc3c27302cae4faa72de5b67-9d-1774057628-1774039628
+#https://x4bnd7lq.fubohd.com/tntsportschile/mono.m3u8?token=42d94e2ec20bba6fbc3c27302cae4faa72de5b67-9d-1774057628-1774039628
 #EXTINF:15, Mega #EXTVLCOPT:network-caching=1000
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:102, 13C (1080p)
