@@ -10,9 +10,8 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:100, TV Chile | CL
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:99, La Red
-#EXTVLCOPT:network-caching=1000
-http://myultratv.com:8080/963404630tv/85px2w/55
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »1«" group-title="→ CHILE ←",CL• LA RED (HD) »1«
+http://myultratv.com:8080/963404630tv/85px2w/54364
 #EXTINF:30, TV+ #EXTVLCOPT:network-caching=1000
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:100, TVN3 #EXTVLCOPT:network-caching=1000
