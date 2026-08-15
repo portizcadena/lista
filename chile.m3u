@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-2 tvg-id="Mega" tvg-name="ZCL• Mega" group-title="→ ZAPPING CHILE ←",CL• Mega (HD)
-#https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=380814626&WebM3UCL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#https://unlimited2-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=380814626&WebM3UCL
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-name="ZCL• TVN (HD)" group-title="→ ZAPPING CHILE ←",CL• TVN (HD)
 #http://myultratv.com:8080/963404630tv/85px2w/54370
 https://iptv2.intersurtv.cl/TVN/tracks-v1a1/mono.ts.m3u8?WebM3UCL
