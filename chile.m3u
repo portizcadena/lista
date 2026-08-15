@@ -13,8 +13,11 @@ https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 #EXTINF:102, Canal 13 #EXTVLCOPT:network-caching=1000
 #https://m3u.cl/channel/c13.php?PlaylistM3UCL
 https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/b8118948-bf65-41fc-b00a-e2e3157d40bb:SCL2/variant/c9b67689654a63823f9a27576352630a/bandwidth/1095600.m3u8
-#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »1«" group-title="→ CHILE ←",CL• LA RED (HD) »1«
-http://myultratv.com:8080/963404630tv/85px2w/54364
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »1«" tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="→ CHILE ←",CL• LA RED (HD) »1«
+http://myultratv.com:8080/963404630tv/85px2w/55
+#EXTINF:-1 tvg-id="" tvg-name="CL• Contivision »1«" group-title="→ CHILE ←",Contivision »1«
+#http://myultratv.com:8080/963404630tv/85px2w/54364
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=380849585&WebM3UCL
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-name="FCL• FUTBÓL CHILENO I (HD) »1«" group-title="→ FUTBÓL CHILE ←",FCL• FUTBÓL CHILENO I (HD) »1«
 http://myultratv.com:8080/963404630tv/85px2w/86
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ZCL• ESPN (HD)" group-title="→ ZAPPING CHILE ←",ZCL• ESPN (HD)
