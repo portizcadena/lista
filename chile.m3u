@@ -11,8 +11,8 @@ https://jireh-14-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc7
 #EXTINF:24,Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 #EXTINF:102, Canal 13 #EXTVLCOPT:network-caching=1000
-#https://m3u.cl/channel/c13.php?PlaylistM3UCL
-https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/b8118948-bf65-41fc-b00a-e2e3157d40bb:SCL2/variant/c9b67689654a63823f9a27576352630a/bandwidth/1095600.m3u8
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#https://dai.google.com/linear/hls/pa/event/nthipJzGQY-A-N0t6xCZhA/stream/b8118948-bf65-41fc-b00a-e2e3157d40bb:SCL2/variant/c9b67689654a63823f9a27576352630a/bandwidth/1095600.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="CL• LA RED (HD) »1«" tvg-logo="https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png" group-title="→ CHILE ←",CL• LA RED (HD) »1«
 http://myultratv.com:8080/963404630tv/85px2w/55
 #EXTINF:-1 tvg-id="" tvg-name="CL• Contivision »1«" group-title="→ CHILE ←",Contivision »1«
